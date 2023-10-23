@@ -185,3 +185,9 @@ if you have ideas or suggestions!
 ## Contributors ✨
 
 Thanks goes to the wonderful people listed in [AUTHORS.md](./AUTHORS.md) 🎉
+
+## 学习资料
+rust语言程序设计：https://kaisery.github.io/trpl-zh-cn/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html
+rust圣经：https://course.rs/basic/base-type/char-bool.html
+
+
